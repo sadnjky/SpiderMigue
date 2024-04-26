@@ -1,0 +1,33 @@
+.btn-1{
+   font-size: 15px;
+    background-color: greenyellow;
+    border: 10px;
+  
+}
+
+.btn-2{
+   font-size: 15px;
+    background-color: greenyellow;
+    border: 10px;
+}
+
+.btn-3{
+   font-size: 15px;
+    background-color: greenyellow;
+    border: 10px;
+}
+
+.btn-4{
+    font-size: 15px;
+     background-color: greenyellow;
+     border: 10px;
+   
+ }
+
+ /* Estilos para pantallas de hasta 600px de ancho (dispositivos móviles) */
+@media only screen and (max-width: 600px) {
+    /* Estilos para dispositivos móviles */
+  }
+  
+ 
+
